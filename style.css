@@ -24,7 +24,7 @@ html{
 }
 
 body{
-    background-color: var(--Grayish-Blue);
+    background-color: var(--Light-Grayish-Blue);
     padding: 1em;
     max-width: 1440px;
     height: 100vh;
@@ -39,7 +39,7 @@ article{
     min-height: 275px;
     border-radius: .5em;
     display: flex;
-    background-color: var(--Light-Grayish-Blue);
+    background-color: #ffffff;
     position: relative;
 }
 
@@ -160,6 +160,6 @@ button{
     }
 
     .active{
-        
+
     }
 }
